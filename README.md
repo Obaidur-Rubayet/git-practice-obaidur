@@ -3,3 +3,7 @@
 Name: Obaidur Rahman
 
 This project demonstrates Git and GitHub usage.
+
+## Features
+- Calculator
+- Git practice
