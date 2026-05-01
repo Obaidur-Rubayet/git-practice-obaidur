@@ -1,4 +1,4 @@
-import datetime
+from utils import add, subtract
 
-print("Name: Obaidur Rahman")
-print("Today:", datetime.date.today())
+print("Add:", add(5, 3))
+print("Subtract:", subtract(5, 3))
